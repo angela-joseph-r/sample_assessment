@@ -9,16 +9,22 @@ From this link: https://www.visitindy.com/indianapolis-things-to-do-events?page=
 Week 1: 
 
 Event name: Telly Leung with the Telly Leung Quartet
+
 Event location: 924 N. Pennsylvania St., Ste. B, Indianapolis, IN 46204
+
 Event detail: Music performance
+
 Event date: 10/23/21
 
 
 Week 2: 
 
 Event name: Dia de Muertos (Day of the Dead) Community Celebration 
+
 Event location: 500 W. Washington St., Indianapolis, IN 46204
+
 Event detail: Art event 
+
 Event date: 10/30/21
 
 
