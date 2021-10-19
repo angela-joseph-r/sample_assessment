@@ -1,7 +1,6 @@
 # sample_assessment
 
-From this link: https://www.visitindy.com/indianapolis-things-to-do-events?page=10 and google maps. I created three csv files about housing, restaurants, and events respectively. In housing, I look for the distance between each possible cowroking location and the housing by distance in miles by car or by bike. Given that the interns make not have access to a car, a bike might be more affordable. For the restaurants, I searched for all restaurants in Indianapolis and pick a couple of different cuisines to accomodate for differing tastes of the interns. For the events, I used the Indy events website and filtered my search by music, sports, and arts related events. For the events, I also took note of the distance between the event place and the coworking location. From the data it looks like the Industrious Mass Ave and Launch Indy consistly are near the restaurants, event locations, and housing. 
-
+From this link: https://www.visitindy.com/indianapolis-things-to-do-events?page=10 and google maps. I created three csv files about housing, restaurants, and events respectively. In housing, I looked for the distance between each possible cowroking location and the housing by distance in miles by car or by bike. I chose to include transportation by bike as well, given that the interns make not have access to a car a bike might be more affordable. For the restaurants, I searched for all restaurants in Indianapolis and picked a couple of different cuisines to accomodate for differing tastes of the interns. For the events, I used the Indy events website and filtered my search by music, sports, and arts related events. For the events, I also took note of the distance between the event place and the coworking location. 
 
 10-week activities plan:
 
@@ -127,4 +126,10 @@ Event detail: Art event
 Event date: 12/26/21
 
 
+
+
+
+
+Conclusion: 
+Based on the data collected, the most convenient coworking location is Launch Indy. Though The Speak Easy coworking location is the closest to the housing and events nearby the Launch Indy is the second closest to both those categories after the The Speak Easy location. I chose Launch Indy as the most convenient location because overall in all three categories of average distance between housing, events, and restaurants, Launch Indy is in the top one or two amongst the rest of the locations. Therefore, it is the most convenient coworkering location in relation to proximity to housing, restaurants, and events. 
 
